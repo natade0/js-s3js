@@ -30,6 +30,8 @@ import S3GLMesh from "./S3GLMesh.js";
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3GLProgram {
 	/**

@@ -30,6 +30,8 @@ const DATA_IO_FUNCTION = [S3MeshLoaderJSON, S3MeshLoaderMQO, S3MeshLoaderOBJ];
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoader = {
 	/**

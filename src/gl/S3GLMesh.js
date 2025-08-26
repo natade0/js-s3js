@@ -16,6 +16,8 @@ import S3GLTriangleIndexData from "./S3GLTriangleIndexData.js";
  * @class
  * @extends S3Mesh
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3GLMesh extends S3Mesh {
 	/**

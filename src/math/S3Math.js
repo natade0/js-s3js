@@ -4,6 +4,8 @@
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3Math = {
 	EPSILON: 2.2204460492503130808472633361816e-8,

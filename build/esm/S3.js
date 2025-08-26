@@ -4,6 +4,8 @@
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3Math = {
 	EPSILON: 2.2204460492503130808472633361816e-8,
@@ -124,6 +126,8 @@ const S3Math = {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Matrix {
 	/**
@@ -724,6 +728,8 @@ class S3Matrix {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Vector {
 	/**
@@ -1217,6 +1223,8 @@ S3Vector.ZERO = new S3Vector(0.0, 0.0, 0.0);
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Camera {
 	/**
@@ -1494,6 +1502,8 @@ class S3Camera {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Light {
 	/**
@@ -1635,6 +1645,8 @@ S3Light.MODE = {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Texture {
 	/**
@@ -1782,6 +1794,8 @@ class S3Texture {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Material {
 	/**
@@ -1960,6 +1974,8 @@ class S3Material {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Vertex {
 	/**
@@ -1993,6 +2009,8 @@ class S3Vertex {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3TriangleIndex {
 	/**
@@ -2083,6 +2101,8 @@ class S3TriangleIndex {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Mesh {
 	/**
@@ -2272,6 +2292,8 @@ class S3Mesh {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Angles {
 	/**
@@ -2432,6 +2454,8 @@ S3Angles.PI2 = 2.0 * S3Angles.PI;
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Model {
 	/**
@@ -2617,6 +2641,8 @@ class S3Model {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Scene {
 	/**
@@ -2740,6 +2766,8 @@ class S3Scene {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  *
  */
 class S3System {
@@ -3803,6 +3831,8 @@ S3System.CULL_MODE = {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLShader {
 	/**
@@ -3968,6 +3998,8 @@ class S3GLShader {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLArray {
 	/**
@@ -4121,6 +4153,8 @@ S3GLArray.gltypetable = {
  * @class
  * @extends S3Texture
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLTexture extends S3Texture {
 	/**
@@ -4203,6 +4237,8 @@ class S3GLTexture extends S3Texture {
  * @class
  * @extends S3Vertex
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLVertex extends S3Vertex {
 	/**
@@ -4253,6 +4289,8 @@ class S3GLVertex extends S3Vertex {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLTriangleIndexData {
 	/**
@@ -4382,6 +4420,8 @@ class S3GLTriangleIndexData {
  * @class
  * @extends S3TriangleIndex
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLTriangleIndex extends S3TriangleIndex {
 	/**
@@ -4433,6 +4473,8 @@ class S3GLTriangleIndex extends S3TriangleIndex {
  * @class
  * @extends S3Material
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLMaterial extends S3Material {
 	/**
@@ -4527,6 +4569,8 @@ class S3GLMaterial extends S3Material {
  * @class
  * @extends S3Mesh
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLMesh extends S3Mesh {
 	/**
@@ -5104,6 +5148,8 @@ class S3GLMesh extends S3Mesh {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLProgram {
 	/**
@@ -5902,6 +5948,8 @@ class S3GLProgram {
  * @class
  * @extends S3Light
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLLight extends S3Light {
 	/**
@@ -5984,6 +6032,8 @@ class S3GLLight extends S3Light {
  * @class
  * @extends S3Model
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLModel extends S3Model {
 	/**
@@ -6042,6 +6092,8 @@ class S3GLModel extends S3Model {
  * @class
  * @extends S3Scene
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLScene extends S3Scene {
 	/**
@@ -6164,6 +6216,8 @@ class S3GLScene extends S3Scene {
  * @class
  * @extends S3System
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3GLSystem extends S3System {
 	/**
@@ -6853,6 +6907,11 @@ class S3GLSystem extends S3System {
  * S3MeshLoaderJSON.input(sys, mesh, '{"Vertices":[[0,0,0]],"Indexes":{"mat1":[[0,0,0]]}}');
  * // エクスポート
  * const json = S3MeshLoaderJSON.output(mesh);
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderJSON = {
 	/**
@@ -7017,6 +7076,10 @@ const S3MeshLoaderJSON = {
  * - MQOファイル内や外部ファイルへの参照（テクスチャパス等）を絶対パスに変換するために利用されます。
  * - `getAbsolutePath()` でファイルの絶対パスを計算し、`getParent()` で親ディレクトリのパスも取得できます。
  * - 内部的にパスの区切りを正規化（バックスラッシュ→スラッシュ）します。
+ *
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class File {
 	/**
@@ -7081,6 +7144,11 @@ class File {
  * - 標準的なMQOの構文に加え、一部簡易パース（手動修正を要する場合もあり）。
  *
  * ※ テクスチャやUV、マテリアルの色・強度なども一部対応しています。
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderMQO = {
 	/**
@@ -7384,6 +7452,11 @@ const S3MeshLoaderMQO = {
  * - OBJ形式のテキストをS3Meshに変換（インポート）、またはS3Meshからテキスト出力（エクスポート）する機能を提供します。
  * - 頂点（v）、テクスチャ座標（vt）、法線（vn）、面（f）などの基本要素をサポート。
  * - 複数マテリアルやUV座標にも対応しています。
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderOBJ = {
 	/**
@@ -7579,6 +7652,8 @@ const DATA_IO_FUNCTION = [S3MeshLoaderJSON, S3MeshLoaderMQO, S3MeshLoaderOBJ];
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoader = {
 	/**
@@ -7666,6 +7741,8 @@ const S3MeshLoader = {
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class S3Plane {
 	/**
@@ -8764,6 +8841,10 @@ class InputDetect {
  * カメラ操作用コントローラー
  * タッチ操作やマウス操作を用いて3DCGシーンのカメラの移動・回転・ズームイン/アウトなどを制御するクラスです。
  * InputDetect の入力情報をもとに、カメラの移動・回転・距離変更（ズーム）を自動で計算します。
+ *
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class CameraController {
 	/**
@@ -8881,6 +8962,10 @@ class CameraController {
  * const mesh = sys.createMesh();
  * // もしくは
  * const glsys = new S3.GLSystem();
+ *
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3 = {
 	System: S3System,

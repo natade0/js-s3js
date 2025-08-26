@@ -40,6 +40,10 @@ import CameraController from "./tools/CameraController.js";
  * const mesh = sys.createMesh();
  * // もしくは
  * const glsys = new S3.GLSystem();
+ *
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3 = {
 	System: S3System,

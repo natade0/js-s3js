@@ -22,6 +22,8 @@ import S3GLVertex from "./S3GLVertex.js";
  * @class
  * @extends S3System
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3GLSystem extends S3System {
 	/**

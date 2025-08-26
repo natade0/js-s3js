@@ -6,6 +6,8 @@ import S3Matrix from "./S3Matrix.js";
  *
  * @class
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3Vector {
 	/**

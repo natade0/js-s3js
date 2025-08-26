@@ -42,6 +42,11 @@ import S3Vector from "../math/S3Vector.js";
  * S3MeshLoaderJSON.input(sys, mesh, '{"Vertices":[[0,0,0]],"Indexes":{"mat1":[[0,0,0]]}}');
  * // エクスポート
  * const json = S3MeshLoaderJSON.output(mesh);
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderJSON = {
 	/**

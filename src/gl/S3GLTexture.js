@@ -9,6 +9,8 @@ import S3GLSystem from "./S3GLSystem.js";
  * @class
  * @extends S3Texture
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3GLTexture extends S3Texture {
 	/**

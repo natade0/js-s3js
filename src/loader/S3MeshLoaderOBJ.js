@@ -9,6 +9,11 @@ import S3Vector from "../math/S3Vector.js";
  * - OBJ形式のテキストをS3Meshに変換（インポート）、またはS3Meshからテキスト出力（エクスポート）する機能を提供します。
  * - 頂点（v）、テクスチャ座標（vt）、法線（vn）、面（f）などの基本要素をサポート。
  * - 複数マテリアルやUV座標にも対応しています。
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderOBJ = {
 	/**

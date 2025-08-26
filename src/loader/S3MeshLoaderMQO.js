@@ -8,6 +8,10 @@ import S3Vector from "../math/S3Vector.js";
  * - MQOファイル内や外部ファイルへの参照（テクスチャパス等）を絶対パスに変換するために利用されます。
  * - `getAbsolutePath()` でファイルの絶対パスを計算し、`getParent()` で親ディレクトリのパスも取得できます。
  * - 内部的にパスの区切りを正規化（バックスラッシュ→スラッシュ）します。
+ *
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 class File {
 	/**
@@ -72,6 +76,11 @@ class File {
  * - 標準的なMQOの構文に加え、一部簡易パース（手動修正を要する場合もあり）。
  *
  * ※ テクスチャやUV、マテリアルの色・強度なども一部対応しています。
+ *
+ * @class
+ * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 const S3MeshLoaderMQO = {
 	/**

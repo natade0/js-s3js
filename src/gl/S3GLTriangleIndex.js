@@ -10,6 +10,8 @@ import S3Vector from "../math/S3Vector.js";
  * @class
  * @extends S3TriangleIndex
  * @module S3
+ * @author natade (https://github.com/natade-jp)
+ * @license MIT
  */
 export default class S3GLTriangleIndex extends S3TriangleIndex {
 	/**
