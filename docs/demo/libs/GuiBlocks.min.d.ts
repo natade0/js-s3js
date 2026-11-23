@@ -67,7 +67,7 @@ declare namespace GuiBlocks {
  * SButton.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -90,7 +90,7 @@ declare class SButton extends SBase {
  * SCanvas.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -197,7 +197,7 @@ declare namespace SCanvas {
  * SCheckBox.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -257,7 +257,7 @@ declare class SCheckBox extends SBase {
  * NTColor.js
  *
  * AUTHOR:
- *  natade (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -762,7 +762,7 @@ declare class NTColor {
  * SColorPicker.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -819,7 +819,7 @@ declare class SColorPicker extends SBase {
  * SComboBox.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -862,7 +862,7 @@ declare class SComboBox extends SBase {
  * SFileLoadButton.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -913,7 +913,7 @@ declare namespace SFileLoadButton {
  * SFileSaveButton.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -956,7 +956,7 @@ declare class SFileSaveButton extends SBase {
  * SGroupBox.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -994,7 +994,7 @@ declare class SGroupBox extends SBase {
  * SImagePanel.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1043,7 +1043,7 @@ declare class SImagePanel extends SBase {
  * SLabel.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1061,7 +1061,7 @@ declare class SLabel extends SBase {
  * SPanel.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1113,7 +1113,7 @@ declare class SPanel extends SBase {
  * SProgressBar.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1187,7 +1187,7 @@ declare class SProgressBar extends SBase {
  * SSlidePanel.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1251,7 +1251,7 @@ declare class SSlidePanel extends SBase {
  * SSlider.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -1346,7 +1346,7 @@ declare class SSlider extends SBase {
  * SBase.js
  *
  * @module GuiBlocks
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**

@@ -3,7 +3,7 @@ export { InputDetect as default };
  * InputDetect
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class InputDetect {
@@ -44,7 +44,7 @@ declare class InputDetect {
  * IDTouch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -153,7 +153,7 @@ declare class IDTouch extends IDMouse {
  * IDMouse.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -257,7 +257,7 @@ declare namespace IDMouse {
  * IDDraggableSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -352,7 +352,7 @@ declare class IDDraggableSwitch {
  * IDPosition.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -418,7 +418,7 @@ declare class IDPosition {
  * IDSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
