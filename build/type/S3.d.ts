@@ -99,7 +99,7 @@ declare namespace S3 {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLArray {
@@ -147,7 +147,7 @@ declare namespace S3GLArray {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Matrix {
@@ -288,7 +288,7 @@ declare class S3Matrix {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Vector {
@@ -564,7 +564,7 @@ declare namespace S3Vector {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  *
  */
@@ -986,7 +986,7 @@ declare namespace S3System {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Mesh {
@@ -1091,7 +1091,7 @@ declare class S3Mesh {
  * @class
  * @extends S3System
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLSystem extends S3System {
@@ -1336,7 +1336,7 @@ declare namespace S3Math {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Angles {
@@ -1435,7 +1435,7 @@ declare namespace S3Angles {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Plane {
@@ -1485,7 +1485,7 @@ declare class S3Plane {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Light {
@@ -1584,7 +1584,7 @@ declare namespace S3MeshLoader {
  * InputDetect の入力情報をもとに、カメラの移動・回転・距離変更（ズーム）を自動で計算します。
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class CameraController {
@@ -1637,7 +1637,7 @@ declare class CameraController {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Model {
@@ -1750,7 +1750,7 @@ declare class S3Model {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Vertex {
@@ -1777,7 +1777,7 @@ declare class S3Vertex {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Scene {
@@ -1842,7 +1842,7 @@ declare class S3Scene {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3TriangleIndex {
@@ -1902,7 +1902,7 @@ declare class S3TriangleIndex {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Texture {
@@ -1961,7 +1961,7 @@ declare class S3Texture {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Material {
@@ -2087,7 +2087,7 @@ declare class S3Material {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3Camera {
@@ -2281,7 +2281,7 @@ declare class S3Camera {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLProgram {
@@ -2490,7 +2490,7 @@ declare class S3GLProgram {
  * @class
  * @extends S3Scene
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLScene extends S3Scene {
@@ -2543,7 +2543,7 @@ declare class S3GLScene extends S3Scene {
  * @class
  * @extends S3Vertex
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLVertex extends S3Vertex {
@@ -2578,7 +2578,7 @@ declare class S3GLVertex extends S3Vertex {
  * @class
  * @extends S3TriangleIndex
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLTriangleIndex extends S3TriangleIndex {
@@ -2608,7 +2608,7 @@ declare class S3GLTriangleIndex extends S3TriangleIndex {
  * @class
  * @extends S3Texture
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLTexture extends S3Texture {
@@ -2645,7 +2645,7 @@ declare class S3GLTexture extends S3Texture {
  * @class
  * @extends S3Model
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLModel extends S3Model {
@@ -2674,7 +2674,7 @@ declare class S3GLModel extends S3Model {
  * @class
  * @extends S3Mesh
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLMesh extends S3Mesh {
@@ -2952,7 +2952,7 @@ declare class S3GLMesh extends S3Mesh {
  * @class
  * @extends S3Material
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLMaterial extends S3Material {
@@ -3000,7 +3000,7 @@ declare class S3GLMaterial extends S3Material {
  * @class
  * @extends S3Light
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLLight extends S3Light {
@@ -3042,7 +3042,7 @@ declare class S3GLLight extends S3Light {
  * InputDetect
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class InputDetect {
@@ -3086,7 +3086,7 @@ declare class InputDetect {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLShader {
@@ -3166,7 +3166,7 @@ declare class S3GLShader {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 declare class S3GLTriangleIndexData {
@@ -3280,7 +3280,7 @@ declare class S3GLTriangleIndexData {
  * IDTouch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -3389,7 +3389,7 @@ declare class IDTouch extends IDMouse {
  * IDMouse.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -3493,7 +3493,7 @@ declare namespace IDMouse {
  * IDDraggableSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -3588,7 +3588,7 @@ declare class IDDraggableSwitch {
  * IDPosition.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**
@@ -3654,7 +3654,7 @@ declare class IDPosition {
  * IDSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 /**

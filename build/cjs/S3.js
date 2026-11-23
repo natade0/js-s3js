@@ -6,7 +6,7 @@
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3Math = {
@@ -128,7 +128,7 @@ const S3Math = {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Matrix {
@@ -730,7 +730,7 @@ class S3Matrix {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Vector {
@@ -1225,7 +1225,7 @@ S3Vector.ZERO = new S3Vector(0.0, 0.0, 0.0);
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Camera {
@@ -1504,7 +1504,7 @@ class S3Camera {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Light {
@@ -1647,7 +1647,7 @@ S3Light.MODE = {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Texture {
@@ -1796,7 +1796,7 @@ class S3Texture {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Material {
@@ -1976,7 +1976,7 @@ class S3Material {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Vertex {
@@ -2011,7 +2011,7 @@ class S3Vertex {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3TriangleIndex {
@@ -2103,7 +2103,7 @@ class S3TriangleIndex {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Mesh {
@@ -2294,7 +2294,7 @@ class S3Mesh {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Angles {
@@ -2456,7 +2456,7 @@ S3Angles.PI2 = 2.0 * S3Angles.PI;
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Model {
@@ -2643,7 +2643,7 @@ class S3Model {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Scene {
@@ -2768,7 +2768,7 @@ class S3Scene {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  *
  */
@@ -3833,7 +3833,7 @@ S3System.CULL_MODE = {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLShader {
@@ -4000,7 +4000,7 @@ class S3GLShader {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLArray {
@@ -4155,7 +4155,7 @@ S3GLArray.gltypetable = {
  * @class
  * @extends S3Texture
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLTexture extends S3Texture {
@@ -4239,7 +4239,7 @@ class S3GLTexture extends S3Texture {
  * @class
  * @extends S3Vertex
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLVertex extends S3Vertex {
@@ -4291,7 +4291,7 @@ class S3GLVertex extends S3Vertex {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLTriangleIndexData {
@@ -4422,7 +4422,7 @@ class S3GLTriangleIndexData {
  * @class
  * @extends S3TriangleIndex
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLTriangleIndex extends S3TriangleIndex {
@@ -4475,7 +4475,7 @@ class S3GLTriangleIndex extends S3TriangleIndex {
  * @class
  * @extends S3Material
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLMaterial extends S3Material {
@@ -4571,7 +4571,7 @@ class S3GLMaterial extends S3Material {
  * @class
  * @extends S3Mesh
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLMesh extends S3Mesh {
@@ -5150,7 +5150,7 @@ class S3GLMesh extends S3Mesh {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLProgram {
@@ -5950,7 +5950,7 @@ class S3GLProgram {
  * @class
  * @extends S3Light
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLLight extends S3Light {
@@ -6034,7 +6034,7 @@ class S3GLLight extends S3Light {
  * @class
  * @extends S3Model
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLModel extends S3Model {
@@ -6094,7 +6094,7 @@ class S3GLModel extends S3Model {
  * @class
  * @extends S3Scene
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLScene extends S3Scene {
@@ -6218,7 +6218,7 @@ class S3GLScene extends S3Scene {
  * @class
  * @extends S3System
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3GLSystem extends S3System {
@@ -6912,7 +6912,7 @@ class S3GLSystem extends S3System {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoaderJSON = {
@@ -7080,7 +7080,7 @@ const S3MeshLoaderJSON = {
  * - 内部的にパスの区切りを正規化（バックスラッシュ→スラッシュ）します。
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class File {
@@ -7149,7 +7149,7 @@ class File {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoaderMQO = {
@@ -7457,7 +7457,7 @@ const S3MeshLoaderMQO = {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoaderOBJ = {
@@ -7654,7 +7654,7 @@ const DATA_IO_FUNCTION = [S3MeshLoaderJSON, S3MeshLoaderMQO, S3MeshLoaderOBJ];
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoader = {
@@ -7743,7 +7743,7 @@ const S3MeshLoader = {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class S3Plane {
@@ -7811,7 +7811,7 @@ class S3Plane {
  * IDSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -7923,7 +7923,7 @@ class IDSwitch {
  * IDPosition.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8048,7 +8048,7 @@ class IDPosition {
  * IDDraggableSwitch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8245,7 +8245,7 @@ class IDDraggableSwitch {
  * IDMouse.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8483,7 +8483,7 @@ IDMouse.MOUSE_EVENTS = {
  * IDTouch.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8742,7 +8742,7 @@ class IDTouch extends IDMouse {
  * IDTools.js
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8780,7 +8780,7 @@ const IDTools = {
  * InputDetect
  *
  * @module InputDetect
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 
@@ -8845,7 +8845,7 @@ class InputDetect {
  * InputDetect の入力情報をもとに、カメラの移動・回転・距離変更（ズーム）を自動で計算します。
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class CameraController {
@@ -8966,7 +8966,7 @@ class CameraController {
  * const glsys = new S3.GLSystem();
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3 = {
