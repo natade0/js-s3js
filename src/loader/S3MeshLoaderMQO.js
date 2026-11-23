@@ -10,7 +10,7 @@ import S3Vector from "../math/S3Vector.js";
  * - 内部的にパスの区切りを正規化（バックスラッシュ→スラッシュ）します。
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 class File {
@@ -79,7 +79,7 @@ class File {
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoaderMQO = {

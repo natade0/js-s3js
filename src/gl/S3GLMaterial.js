@@ -11,7 +11,7 @@ import S3GLTexture from "./S3GLTexture.js";
  * @class
  * @extends S3Material
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class S3GLMaterial extends S3Material {

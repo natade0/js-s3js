@@ -45,7 +45,7 @@ import S3Vector from "../math/S3Vector.js";
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3MeshLoaderJSON = {

@@ -5,10 +5,10 @@
 	"keywords": [
 		"3d", "graphics", "engine", "javascript", "webgl"
 	],
-	"author": "natade-jp <natade3@gmail.com> (https://github.com/natade-jp)",
+	"author": "natade0 <natade3@gmail.com> (https://github.com/natade0)",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/natade-jp/js-s3js.git"
+		"url": "git+https://github.com/natade0/js-s3js.git"
 	},
 	"license": "MIT",
 	"source": "./src/S3.js",
@@ -35,9 +35,9 @@
 		"build": "./build"
 	},
 	"bugs": {
-		"url": "https://github.com/natade-jp/js-s3js/issues"
+		"url": "https://github.com/natade0/js-s3js/issues"
 	},
-	"homepage": "https://github.com/natade-jp/js-s3js",
+	"homepage": "https://github.com/natade0/js-s3js",
 	"devDependencies": {
 		"@rollup/plugin-commonjs": "^28.0.3",
 		"@rollup/plugin-node-resolve": "^16.0.1",

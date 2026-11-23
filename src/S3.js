@@ -42,7 +42,7 @@ import CameraController from "./tools/CameraController.js";
  * const glsys = new S3.GLSystem();
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 const S3 = {

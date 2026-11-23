@@ -9,7 +9,7 @@ import S3System from "./S3System.js";
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class S3Mesh {

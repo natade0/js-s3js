@@ -2,15 +2,15 @@
 
 [![npm version](https://badge.fury.io/js/s3js.svg)](https://badge.fury.io/js/s3js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![ESDoc coverage badge](https://natade-jp.github.io/js-s3js/badge.svg)](https://natade-jp.github.io/js-s3js/)
+[![ESDoc coverage badge](https://natade0.github.io/js-s3js/badge.svg)](https://natade0.github.io/js-s3js/)
 
 JavaScriptで手軽に3Dグラフィックスを扱うためのライブラリです。  
 シーン・モデル・メッシュ・マテリアル・ライト・カメラの管理をシンプルなAPIで実現し、OBJ・MQO・JSON形式によるモデルのインポートが可能です。
 
-* [Github Pages](https://natade-jp.github.io/js-s3js/)
-* [ARCHITECTURE.md](https://natade-jp.github.io/js-s3js/manual/)
-* [demo1](https://natade-jp.github.io/js-s3js/manual/DEMO1.html)
-* [demo2](https://natade-jp.github.io/js-s3js/manual/DEMO2.html)
+* [Github Pages](https://natade0.github.io/js-s3js/)
+* [ARCHITECTURE.md](https://natade0.github.io/js-s3js/manual/)
+* [demo1](https://natade0.github.io/js-s3js/manual/DEMO1.html)
+* [demo2](https://natade0.github.io/js-s3js/manual/DEMO2.html)
 
 ## 特徴
 

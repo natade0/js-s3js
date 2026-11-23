@@ -8,7 +8,7 @@ import S3Camera from "../basic/S3Camera.js";
  * InputDetect の入力情報をもとに、カメラの移動・回転・距離変更（ズーム）を自動で計算します。
  *
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class CameraController {

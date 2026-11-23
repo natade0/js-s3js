@@ -13,7 +13,7 @@ import S3Vector from "../math/S3Vector.js";
  * @class
  * @extends S3Scene
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class S3GLScene extends S3Scene {

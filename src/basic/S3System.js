@@ -47,7 +47,7 @@ import S3Vertex from "./S3Vertex.js";
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  *
  */

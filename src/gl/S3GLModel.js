@@ -10,7 +10,7 @@ import S3Model from "../basic/S3Model.js";
  * @class
  * @extends S3Model
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class S3GLModel extends S3Model {

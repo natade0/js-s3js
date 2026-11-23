@@ -10,7 +10,7 @@ import S3GLVertex from "./S3GLVertex.js";
  *
  * @class
  * @module S3
- * @author natade (https://github.com/natade-jp)
+ * @author natade (https://github.com/natade0)
  * @license MIT
  */
 export default class S3GLTriangleIndexData {
